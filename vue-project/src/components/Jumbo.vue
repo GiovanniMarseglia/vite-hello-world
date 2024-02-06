@@ -26,7 +26,7 @@ export default {
 <style scoped>
     .centro{
         background-color: grey;
-        width: 80%;
+        width: 100%;
         margin: 0 auto;
         display: flex;
         flex-direction: column;
